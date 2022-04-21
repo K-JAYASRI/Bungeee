@@ -1,0 +1,1 @@
+To solve this I use python program with pandas                    
